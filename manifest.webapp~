@@ -1,0 +1,19 @@
+{
+  "name": "S.O.S",
+  "description": "Guia de Primeros Auxilios",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/sos.png"
+  },
+  "developer": {
+    "name": "Eduardo Gomez Valencia",
+    "url": "http://groupdeveloper.hol.es"
+  },
+  "default_locale": "es"
+}
+
+
+
+
+
+

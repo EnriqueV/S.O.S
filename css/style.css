@@ -1,0 +1,53 @@
+h3{
+font-family:italic;
+text-shadow: 0 1px 1px white, 1px 0 1px white, -1px 0 1px white, 0 -1px 1px white, 1px 1px 1px white, -1px 1px 1px
+white, -1px 1px 1px white, -1px -1px 1px white;
+font-size: 22px;
+}
+
+h4{
+font-family: bold;
+font-size:20px;
+}
+p{
+font-size:20px;
+font-family: sans-serif;
+margin: 0;
+text-align:left;
+}
+
+
+li{
+	list-style: square;
+ font-size:18px; 
+}
+ section {
+  margin: 0 auto;
+  padding: 10px 10px;
+  width: 500px;
+
+}
+article {
+  margin: 20px auto 
+}
+#tipo1 {  
+  -webkit-column-count:1;  
+  -moz-column-count:1;  
+  column-count:1; 
+ font-size:18px; 
+}
+
+#tipo2 {  
+ -webkit-column-count:2;  
+  -moz-column-count:2;  
+  column-count:2; 
+ font-size:18px;
+font-family:fantasy; 
+}
+
+div#next_button{
+    
+    bottom: 2px; right: 4px;
+    float: left;
+    border-radius: 20px;
+  }
